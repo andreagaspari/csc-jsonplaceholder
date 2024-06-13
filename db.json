@@ -8,11 +8,15 @@
     },
     {
       "id": 8,
-      "title": "Prodotto 8"
+      "title": "Prodotto 8",
+      "imgSrc": "images/prodotto-1.jpeg",
+      "price": 11.50
     },
     {
-      "id": 3,
+      "id": 9,
       "title": "Prodotto 9"
+      "imgSrc": "images/prodotto-1.jpeg",
+      "price": 12
     }
   ],
   "profile": {
